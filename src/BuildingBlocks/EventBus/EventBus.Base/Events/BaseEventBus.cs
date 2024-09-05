@@ -2,7 +2,7 @@ using EventBus.Base.Events.Abstractions;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 
-namespace EventBus.Base.Events.Events;
+namespace EventBus.Base.Events;
 
 public abstract class BaseEventBus : IEventBus, IDisposable
 {

@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehmet.yildirim\\agrify\\agrify\\src\\ApiGateways\\webapigateway\\Web.APIGateway\\Web.APIGateway.csproj",
+      "projectUniqueName": "C:\\Users\\mehmet.yildirim\\agrify\\agrify\\src\\ApiGateways\\WebApiGateway\\Web.APIGateway\\Web.APIGateway.csproj",
       "projectName": "Web.APIGateway",
-      "projectPath": "C:\\Users\\mehmet.yildirim\\agrify\\agrify\\src\\ApiGateways\\webapigateway\\Web.APIGateway\\Web.APIGateway.csproj",
+      "projectPath": "C:\\Users\\mehmet.yildirim\\agrify\\agrify\\src\\ApiGateways\\WebApiGateway\\Web.APIGateway\\Web.APIGateway.csproj",
       "packagesPath": "C:\\Users\\mehmet.yildirim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehmet.yildirim\\agrify\\agrify\\src\\ApiGateways\\webapigateway\\Web.APIGateway\\obj\\",
+      "outputPath": "C:\\Users\\mehmet.yildirim\\agrify\\agrify\\src\\ApiGateways\\WebApiGateway\\Web.APIGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mehmet.yildirim\\AppData\\Roaming\\NuGet\\NuGet.Config",
